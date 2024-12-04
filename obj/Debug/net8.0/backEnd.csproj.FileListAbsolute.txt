@@ -186,4 +186,10 @@ C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\obj\Debug\net8.0\refi
 C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\obj\Debug\net8.0\backEnd.pdb
 C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\obj\Debug\net8.0\backEnd.genruntimeconfig.cache
 C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\obj\Debug\net8.0\ref\backEnd.dll
-C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\bin\Debug\net8.0\out\web.config
+C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\bin\Debug\net8.0\out\appsettings.json
+C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\bin\Debug\net8.0\out\backEnd.deps.json
+C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\bin\Debug\net8.0\out\backEnd.runtimeconfig.json
+C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\bin\Debug\net8.0\out\backEnd.staticwebassets.endpoints.json
+C:\Users\Juan Diego\Desktop\prueba tecnica\backEnd\backEnd\obj\Debug\net8.0\backEnd.sourcelink.json
