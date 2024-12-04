@@ -2,7 +2,10 @@ using backEnd.Context;
 using backEnd.services;
 using backEnd.Services;
 using Microsoft.EntityFrameworkCore;
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5432";
+
 var builder = WebApplication.CreateBuilder(args);
+builder.WebHost.UseUrls($"http://*:{port}");
 // Add services to the container.
 // Agrega la conexi�n a la base de datos
 builder.Services.AddDbContext<AppDbContext>(options =>
